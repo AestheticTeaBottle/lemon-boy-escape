@@ -5,7 +5,7 @@ Final Project 3D
 2213211762 ภาณุ ธำรงศรีสุข
 
 # Links
-Gameplay Preview Video
+[Gameplay Preview Video](https://drive.google.com/file/d/1VWsXORN3r4MaJeVUiyJfZNBtEjJoetiM/view?usp=sharing)
 
 [SourceCode.zip](https://drive.google.com/file/d/1mEA0kIMMuWPNH1M4OlvFSlwS3RdWqV-K/view?usp=sharing)
 
